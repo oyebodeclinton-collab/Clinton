@@ -102,9 +102,7 @@ section {
 }
 
 .navbar-brand {
-  font-weight: 700;
-  font-size: 26px;
-  color: #092032;
+  width: 90px;
 }
 
 .navbar-brand span {
