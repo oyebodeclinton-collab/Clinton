@@ -108,6 +108,8 @@ section {
 .navbar-brand span {
   color: #ff4d29;
 }
+/* //NAVBAR */
+
 
 /* BTN */
 .btn {
@@ -125,6 +127,8 @@ section {
   color: #ffffff;
   background-color: #ff4d29;
 }
+/* //BTN */
+
 
 /* SLIDER */
 #hero-slider h1 {
@@ -141,6 +145,8 @@ section {
     linear-gradient(rgba(9, 32, 50, 0.4), rgba(9, 32, 50, 0.4)),
     url(../img/Project1.jpg);
 }
+/* //SLIDER */
+
 
 /* OWL CAROUSEL */
 .owl-prev,
@@ -171,6 +177,8 @@ section {
 .owl-prev:hover {
   background-color: #ff4d29 !important;
 }
+/* //OWL CAROUSEL */
+
 
 /* INFOBOX */
 .info-box {
@@ -181,6 +189,8 @@ section {
   width: 90px;
   margin-right: 24px;
 }
+/* //INFOBOX */
+
 
 /* MILESTONE */
 #milestone {
@@ -197,6 +207,8 @@ section {
 #milestone .display-4 {
   font-weight: 700;
 }
+/* //MILESTONE */
+
 
 /* SERVICES */
 .service-box {
@@ -213,9 +225,10 @@ section {
   margin-top: 24px;
   margin-bottom: 12px;
 }
+/* //SERVICES */
+
 
 /* PROJECT */
-
 #project-slider .owl-next #project-slider .owl-prev {
   background-color: rgba(255, 255, 255, 0.5) !important;
 }
@@ -265,6 +278,8 @@ section {
   vertical-align: middle;
   margin-right: 12px;
 }
+/* //PROJECT */
+
 
 /* TEAM */
 .team-member {
@@ -309,6 +324,8 @@ section {
 .team-member h5 {
   margin-top: 24px;
 }
+/* //TEAM */
+
 
 /* REVIEW */
 #reviews {
@@ -349,6 +366,8 @@ section {
 .owl-dot.active span {
   background-color: #ff4d29 !important;
 }
+/* //REVIEW */
+
 
 /* BLOG POST */
 .blog-post {
@@ -383,6 +402,8 @@ section {
   text-decoration: underline;
   text-transform: uppercase;
 }
+/* //BLOG POST */
+
 
 /* FOOTER */
 footer {
@@ -414,9 +435,12 @@ footer .social-links {
   margin-left: 5px;
   margin: 5px;
 }
+/* //FOOTER */
+
 
 /* FORM */
 .form-control:focus {
   box-shadow: none; 
   border-color: #ff4d29;
 }
+/* //FORM */
